@@ -62,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				6C843F842DBB71AD00C8E50E /* MyColorMemoApp */,
+				6CE54FA62DBF4ECB0061C462 /* New Group */,
 				6C843F832DBB71AD00C8E50E /* Products */,
 				9CC9ECB34053726F3BB40F65 /* Pods */,
 				04302AD2753D07C3E9FE89E8 /* Frameworks */,
@@ -74,6 +75,13 @@
 				6C843F822DBB71AD00C8E50E /* MyColorMemoApp.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		6CE54FA62DBF4ECB0061C462 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 		9CC9ECB34053726F3BB40F65 /* Pods */ = {
